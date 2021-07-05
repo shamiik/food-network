@@ -62,3 +62,39 @@ h2{
 .mid-position{
     padding: 5%;
 }
+.para3{
+    text-align: center;
+    display: block;
+}
+h3{
+    font-size: 35px;
+    text-align: center;
+}
+.recepieitem{
+    box-shadow: 5px 5px 15px gray;
+    width: 100%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-left: 20px;
+    border-radius: 30px;  
+}
+.recepieitem img{
+    width: 90%;
+    padding: 20px;
+    
+}
+.comment {
+    width: 40%;
+    height: 250px;
+    padding: 10px;
+    margin-bottom: 2%;
+    border-radius: 20px;
+}
+.comment-position{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    padding-top: 5%;
+}
